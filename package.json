@@ -1,16 +1,11 @@
 {
-  "name": "ejs-locals",
+  "name": "ejs-extras",
+  "version": "0.0.2",
   "description": "Layout support for Express 4.x.",
   "author": "Tom Carden <tom@tom-carden.co.uk>",
   "contributors": [
     "Robert Sköld <robert@publicclass.se> (http://publicclass.se)"
   ],
-  "version": "0.0.1",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/randometc/ejs-locals.git"
-  },
-  "homepage": "https://github.com/randometc/ejs-locals",
   "dependencies": {
     "ejs": "3.1.10"
   }
